@@ -1,0 +1,5 @@
+baseURL = "https://alltimeready.github.io/alltimeready/"
+languageCode = "fr"
+title = "AllTimeReady Blog"
+theme = "hugo-paper"
+
